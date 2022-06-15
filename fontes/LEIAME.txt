@@ -1,0 +1,15 @@
+=============================== LEIA-ME ================================
+
+Todos os códigos quando executados irão gerar 10 vetores com valores 
+aleatórios que variam de 0 até 100. Cada vetor possui 
+100 elementos a mais que o anterior (o primeiro vetor terá 100 elementos
+e o último 1.000). Caso queira um número diferente de vetores, basta 
+manipular o primeiro for da função, já que os vetores são gerador na função randvet,
+que usa como parâmetro o índice do primeiro for do main, para definir o tamanho do vetor gerado
+
+Passos para executar os códigos:
+1º Tenha o Python instalado na sua máquina
+2º Abra o terminal e caminhe até o diretório onde estão os arquivos .py
+3º No diretório, execute o comando python3 (arquivo)
+
+Depois disso, os algoritmos de ordenação já começarão a ser testados.
